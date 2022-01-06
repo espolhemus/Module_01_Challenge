@@ -28,7 +28,7 @@ This analysis yielded the following table, and corresponding visualization:
 
 ![Test](Theater_Outcomes_vs_Goals_Table.png)
 
-![Test](Outcomes_vs_Goals.png)
+![Test](Theater_Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
