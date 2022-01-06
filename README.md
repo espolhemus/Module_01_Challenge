@@ -16,9 +16,9 @@ The first phase of our analysis involved analyzing campaigns for Theater project
 
 This analysis yielded the following table, and corresponding visualization:
 
-![Test1](/blob/Main/Theater_Outcomes_vs_Launch_Table.png)
+![Test1](Theater_Outcomes_vs_Launch_Table.png)
 
-![Test2](/blob/Main/Theater_Outcomes_vs_Launch.png)
+![Test2](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -26,7 +26,7 @@ The second phase of our analysis involved analyzing campaigns raising funds for 
 
 This analysis yielded the following table, and corresponding visualization:
 
-![Test](/blob/Main/Theater_Outcomes_vs_Goals_Table.png)
+![Test](Theater_Outcomes_vs_Goals_Table.png)
 
 ![Test](Outcomes_vs_Goals.png)
 
