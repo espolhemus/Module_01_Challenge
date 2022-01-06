@@ -26,9 +26,9 @@ The second phase of our analysis involved analyzing campaigns raising funds for 
 
 This analysis yielded the following table, and corresponding visualization:
 
-![Test](Theater_Outcomes_vs_Goals_Table.png)
+![Test](Outcomes_vs_Goals_Table.png)
 
-![Test](Theater_Outcomes_vs_Goals.png)
+![Test](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
